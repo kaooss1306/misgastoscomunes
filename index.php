@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <title>PHP Starter</title>
+
 </head>
 
 <body>
